@@ -5,7 +5,7 @@ Tutorial for Gábor and Balázs, 2019.05.08.
 2. Add collaborators (settings --> collaborators) -G 
 3. Clone - G
 4. Edit code -G
-5. Add - G
+5. Check git status, Add, check git status - G
 6. Commit - G
 7. Push - G
 8. Pull - B
