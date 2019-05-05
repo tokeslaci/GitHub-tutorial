@@ -19,5 +19,4 @@ Tutorial for Gábor and Balázs, 2019.05.08.
 13. Push - B
 
 ## Exercise 2
-Clone ss-descriptives
-<br>check comments and Issues
+Clone ss-descriptives (check comments and Issues)
