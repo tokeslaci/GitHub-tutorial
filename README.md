@@ -9,8 +9,8 @@ Tutorial for Gábor and Balázs, 2019.05.08.
 6. Commit - G
 7. Push - G
 8. Pull - B
-9. Edit code and create secret/passwords.txt - B
-10. .gitignore (passwords.txt and Mac hidden .DS_Store files) - B
+9. Edit code and create secret/companynames.txt - B
+10. .gitignore (companynames.txt and Mac hidden .DS_Store files) - B
 11. Add - B
 12. Commit - B
 13. Push - B
