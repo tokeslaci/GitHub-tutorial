@@ -12,5 +12,5 @@ Tutorial for Gábor and Balázs, 2019.05.08.
 9. Edit code and create secret/companynames.txt - B
 10. .gitignore (companynames.txt and Mac hidden .DS_Store files) - B
 11. Add - B
-12. Commit - B
+12. Commit (separately!) - B
 13. Push - B
