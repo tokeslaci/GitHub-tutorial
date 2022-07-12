@@ -20,4 +20,7 @@ Tutorial for Gábor and Balázs, 2019.05.08.
 13. Push - B
 
 ## Exercise 2
-Clone ss-descriptives (check comments and Issues)
+Look at existing repos: issues, projects, collaboration, commits, comments
+
+## Exercise 3
+Create repo from scratch
